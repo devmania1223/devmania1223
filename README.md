@@ -52,7 +52,7 @@
 ### Web site & Web application
 <br />
 
-### Graphic Design $ Machine Learning
+### Graphic Design & Machine Learning
 <br />
   
 ### DApps & Online Betting Website
