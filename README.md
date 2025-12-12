@@ -44,8 +44,8 @@
       <td><img src="https://cdn.simpleicons.org/web3dotjs/F16822" width="100"></td>
       <td><img src="https://cdn.simpleicons.org/polkadot/E6007A" width="100"></td>
       <td><img src="https://cdn.simpleicons.org/bitcoin/F7931A" width="100"></td>
-      <td><img src="https://raw.githubusercontent.com/opentensor/bittensor/master/assets/bittensor-logo.svg" width="100"></td>
-      <td><img src="https://cdn.simpleicons.org/python/3776AB" width="100"></td>
+      <td><img src="https://cdn.simpleicons.org/docker/2496ED" width="100"></td>
+      <td><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="100"></td>
       <td><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="100"></td>
       <td><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="100"></td>
       <td><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="100"></td>
