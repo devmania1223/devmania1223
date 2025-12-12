@@ -38,6 +38,23 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="100"></td>
+      <td><img src="https://cdn.simpleicons.org/solidity/363636" width="100"></td>
+      <td><img src="https://cdn.simpleicons.org/web3dotjs/F16822" width="100"></td>
+      <td><img src="https://cdn.simpleicons.org/polkadot/E6007A" width="100"></td>
+      <td><img src="https://cdn.simpleicons.org/bitcoin/F7931A" width="100"></td>
+      <td><img src="https://raw.githubusercontent.com/opentensor/bittensor/master/assets/bittensor-logo.svg" width="100"></td>
+      <td><img src="https://cdn.simpleicons.org/python/3776AB" width="100"></td>
+      <td><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="100"></td>
+      <td><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="100"></td>
+      <td><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="100"></td>
+      <td><img src="https://cdn.simpleicons.org/numpy/013243" width="100"></td>
+      <td><img src="https://cdn.simpleicons.org/pandas/150458" width="100"></td>
+      <td><img src="https://cdn.simpleicons.org/openai/412991" width="100"></td>
+      <td><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="100"></td>
+   </tr>
+  
 </table>
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
