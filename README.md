@@ -2,8 +2,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=devmania1223.devmania1223" />
 <img align="right" src="https://img.shields.io/github/followers/devmania1223?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=devmania1223&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmania1223&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
@@ -47,16 +45,16 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  
-### Web site & Web application
+### Web and Mobile Development
 <br />
 
-### Graphic Design & Machine Learning
+### AI & Machine Learning
 <br />
   
-### DApps & Online Betting Website
+### Blockchain & dApp Development
 <br />
 
-### Crypto Trading Platforms & Bots
+### DevOps & Infrastructure
 <br />
 
 
