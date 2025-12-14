@@ -43,7 +43,7 @@
       <td><img src="https://cdn.simpleicons.org/solidity/363636" width="100"></td>
       <td><img src="https://cdn.simpleicons.org/web3dotjs/F16822" width="100"></td>
       <td><img src="https://cdn.simpleicons.org/polkadot/E6007A" width="100"></td>
-      <td><img src="https://taostats.io/_next/image?url=%2F_next%2Fsta…c%2Fmedia%2Flanding-status.2430036d.png&w=32&q=75" width="100"></td>
+      <td><img src="https://docs.learnbittensor.org/img/logo-dark-mode.svg" width="100"></td>
       <td><img src="https://cdn.simpleicons.org/docker/2496ED" width="100"></td>
       <td><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="100"></td>
       <td><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="100"></td>
